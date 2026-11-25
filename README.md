@@ -1,6 +1,6 @@
 # Fight Aim by Mysterdogg
 
-A small CLEO script that enables melee lock-on for **Mouse + Keys** players, inspired by GTA IV & V. With a melee weapon *(or unarmed)*, hold the aim button *(right mouse button)* near a ped: CJ locks onto the ped with the game's own joypad targeting and the camera follows the fight. Release the button and the mouse free aim comes back.
+A small CLEO script that enables melee lock-on for **Mouse + Keys** players, inspired by GTA IV. With a melee weapon *(or unarmed)*, hold the aim button *(right mouse button)* near a ped: CJ locks onto the ped with the game's own joypad targeting and the camera follows the fight. Release the button and the mouse free aim comes back.
 
 ## Requirements
 
